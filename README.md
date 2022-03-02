@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on cool openSource projects
 - 💬 Ask me about WebDev or any tech related stuff
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I listen to lofi, synthwave and retrowave music a lot
 
 ![Shantanu Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aloneduckling&theme=great-gatsby&show_icons=true)
