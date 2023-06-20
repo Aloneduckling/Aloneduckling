@@ -13,15 +13,17 @@
 
 ### Connect with me:
 
-[<img align="left" alt="myWebsite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Shantan05703379 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/devdotto.svg" />][devto]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 
 
 
 
 
 
-[website]: https://shantanu-kaushik.herokuapp.com/
+[Instagram]: https://www.instagram.com/shantanukaushik12/
 [twitter]: https://twitter.com/Shantan05703379
 [linkedin]: https://www.linkedin.com/in/shantanu-kaushik-731258176/
+[devto]: https://dev.to/aloneduckling
