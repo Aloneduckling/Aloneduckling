@@ -1,10 +1,10 @@
 ### Hello, I am Shantanu Kaushik 👋
   ##
 
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning Prisma
 - 👯 I’m looking to collaborate on cool openSource projects
 - 💬 Ask me about WebDev or any tech related stuff
-- 🥅 2023 Goals: Learn and grow
+- 🥅 2024 Goals: Learn and grow
 - ⚡ Fun fact: I listen to lofi, synthwave and retrowave music a lot
 
 ![Shantanu Kaushik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aloneduckling&theme=great-gatsby&show_icons=true)
@@ -23,7 +23,6 @@
 
 
 
-[Instagram]: https://www.instagram.com/shantanukaushik12/
 [twitter]: https://twitter.com/Shantan05703379
 [linkedin]: https://www.linkedin.com/in/shantanu-kaushik-731258176/
 [devto]: https://dev.to/aloneduckling
