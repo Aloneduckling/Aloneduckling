@@ -1,7 +1,7 @@
 ### Hello, I am Shantanu Kaushik 👋
   ##
 
-- 🌱 I’m currently learning Prisma
+- 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate on cool openSource projects
 - 💬 Ask me about WebDev or any tech related stuff
 - 🥅 2024 Goals: Learn and grow
